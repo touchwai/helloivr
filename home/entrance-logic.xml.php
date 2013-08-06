@@ -10,19 +10,19 @@ print "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n";
 	switch ($keyValue) {
 		case 1:
 			print "<Say>For English, wait a moment.</Say>";
-			$dialto = "+18774734636";
+			//$dialto = "+18774734636";
 			break;
 		case 2:
 			print "<Say language='es-MX'>En español, espera un momento.</Say>";
-			$dialto = "+18774734636";
+			//$dialto = "+18774734636";
 			break;
 		case 3:
 			print "<Say>To Check the status of your application, wait a moment.</Say>";
-			$dialto = "+18774734636";
+			//$dialto = "+18774734636";
 			break;
 		case 4:
 			print "<Say>To talk an hsf scolarship expert, wait a moment.</Say>";
-			$dialto = "+18774734636";
+			//$dialto = "+18774734636";
 			break;
 		case 5:
 		default:
